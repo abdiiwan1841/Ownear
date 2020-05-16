@@ -1,11 +1,11 @@
 {
-  "name": "test-q",
+  "name": "Ownear-pwa",
   "version": "0.0.3",
-  "description": "A Quasar Framework app",
-  "productName": "Quasar App",
-  "cordovaId": "org.cordova.quasar.app",
+  "description": "Ownear PWA built with Quasar",
+  "productName": "Ownear PWA",
+  "cordovaId": "org.cordova.ownear.owa",
   "capacitorId": "",
-  "author": "renren1 <renren@ixbase.net>",
+  "author": "Riyaz <sdriyaz712@gmail.com>",
   "private": true,
   "scripts": {
     "lint": "eslint --ext .js,.vue src",
